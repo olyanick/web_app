@@ -1,3 +1,1 @@
-# diox
-
-a [Sails](http://sailsjs.org) application
+web app
